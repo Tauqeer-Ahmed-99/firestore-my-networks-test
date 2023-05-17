@@ -1,0 +1,22 @@
+.App {
+  margin: 2rem;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  width: 10rem;
+}
+
+.search-friends {
+  margin-top: 2rem;
+}
+.search-friends {
+  margin-bottom: 1rem;
+}
+
+.search-results,
+.my-sent-friend-requests,
+.my-received-friend-requests {
+  margin-bottom: 3rem;
+}
